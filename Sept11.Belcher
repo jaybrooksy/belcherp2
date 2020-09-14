@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Portfolio</h1>
+
+<p> I can help with <ol>
+  <li>HTML</li>
+  <li>Wordpress</li>
+  <li>Photoshop</li>
+  <li>Creativity</li>
+</ol> </p>
+
+  <h2> Contact Me </h2>
+  <p>Please click <a href="n">here</a> to look at my work and <a href="n">here</a> to view my contact information </p>
+
+  <h2> About Me </h2>
+<p> My name is <strong>Jay Brooks</strong> and I am an average student. But will never give up and always find a solution to the problem. I enjoy playing all sports and spending time with friends and family.
+ </p>
+  <h2> Testimonials </h2>
+  <blockquote> "Jay Brooks is one of the most creative and hard working people in this industry." </blockquote>
+    <blockquote>"He worked overtime to get my project done early so we could start our website sooner"</blockquote>
+
+</body>
+</html>
